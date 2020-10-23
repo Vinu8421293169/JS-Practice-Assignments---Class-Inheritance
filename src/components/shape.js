@@ -4,6 +4,6 @@ export default class Shape {
   constructor() {
     this.color = "blue";
   }
-  drowShape() {}
+  drawShape() {}
   calculateArea() {}
 }
