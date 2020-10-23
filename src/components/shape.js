@@ -1,3 +1,9 @@
-// declare class
+import React from "react";
 
-// export class using module.exports
+export default class Shape {
+  constructor() {
+    this.color = "blue";
+  }
+  drowShape() {}
+  calculateArea() {}
+}
