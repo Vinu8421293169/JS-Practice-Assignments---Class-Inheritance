@@ -2,7 +2,6 @@ import { Component } from "react";
 
 export default class Shape extends Component {
   constructor() {
-    super();
     this.color = "color";
   }
   drawShape() {}
